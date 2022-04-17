@@ -75,13 +75,13 @@
 
 1. Introduce yourself. (Who you are. Why you chose Haiku. What programming experience you have.)
 
-    My resume is attached.
+    My [resume](./resume.pdf) is attached.
 
     In 2018, I tried to apply for haiku, but was rejected due to lack of knowledge. This year is my last year in school, and I hope to draw a perfect end to my college life.
 
 2. Project Proposal. (Title. Description. Goals.)
 
-    Annex
+    [Annex](./ARM_port_and_device_tree_support_proposal.md)
 
 3. Timeline. Include what you plan to have accomplished by the end of:
 
